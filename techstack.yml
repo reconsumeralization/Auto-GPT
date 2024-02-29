@@ -2,7 +2,7 @@ repo_name: reconsumeralization/Auto-GPT
 report_id: ea84cadb59a98474c381f7f27e3268a2
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:16:56+00:00'
+timestamp: '2024-02-29T18:12:28+00:00'
 requested_by: reconsumeralization
 provider: github
 branch: master
@@ -31,7 +31,7 @@ tools:
   detection_source_url: https://github.com/reconsumeralization/Auto-GPT
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
